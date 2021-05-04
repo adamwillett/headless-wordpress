@@ -1,6 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Conf Demo",
+    title: "Headless WordPress & Gatsby",
+    author: "Adam Willett",
+    description: "Demo Gatsby & WordPress Integration.",
+    social: {
+      twitter: "Twitter",
+      instagram: "Instagram",
+      facebook: "Facebook",
+      linkedin: "LinkedIn"
+    }
   },
   plugins: [
     `gatsby-plugin-sharp`,
